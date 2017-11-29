@@ -1,3 +1,4 @@
 # disneyland
 
-Ini project untuk aplikasi disneyland
+Ini project untuk aplikasi disneyland 
+or disneyisland
